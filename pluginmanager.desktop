@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=pluginmanager
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Plugin manager
+Comment=A plugin to manage plugins
